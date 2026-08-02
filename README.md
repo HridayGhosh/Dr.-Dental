@@ -4,6 +4,33 @@
 
 ---
 
+# 👥 Team Information
+
+### Team Name
+
+Dual Core
+
+### Unique Team ID
+
+IBMBH03066
+
+### Team Members
+
+- Hriday Ghosh
+- Shaashvat Sriahn
+
+---
+
+# 📬 Contact
+
+For any queries regarding the project, please contact the team leader:
+
+**Team Leader Details**
+
+- Hriday Ghosh | hridayghosh2003@gmail.com | 8076371543 (Available on WhatsApp as well)
+
+---
+
 # 📢 Submission Note
 
 **This repository represents the final and official version of our project.**
@@ -163,7 +190,7 @@ Dr-Dental/
 **Google Drive Folder**
 
 ```
-[Google Drive Folder Link]
+https://drive.google.com/drive/folders/1FtkhnVEQPRh5AK9jYWHlJ_n34k9SAhvg?usp=sharing
 ```
 
 ---
@@ -173,7 +200,7 @@ Dr-Dental/
 **Lean Canvas Link**
 
 ```
-[[Lean Canvas Link]](https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
+https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true
 ```
 
 ---
@@ -205,33 +232,6 @@ Dr-Dental/
 ```
 [Deployed Project URL]
 ```
-
----
-
-# 👥 Team Information
-
-### Team Name
-
-Dual Core
-
-### Unique Team ID
-
-IBMBH03066
-
-### Team Members
-
-- Hriday Ghosh
-- Shaashvat Sriahn
-
----
-
-# 📬 Contact
-
-For any queries regarding the project, please contact the team leader:
-
-**Team Leader Details**
-
-- Hriday Ghosh | hridayghosh2003@gmail.com | 8076371543 (Available on WhatsApp as well)
 
 ---
 
