@@ -36,12 +36,12 @@ For any queries regarding the project, please contact the team leader:
 **Live Demo**
 
 ```
-[Deployed Project URL]
+https://dr-dental-phi.vercel.app/
 ```
 
 ---
 
-# 📁 Project Document Links
+# 📁 Google Drive Links 
 
 **Google Drive Folder**
 
@@ -76,7 +76,7 @@ https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?us
 **Project Presentation (PPT)**
 
 ```
-[PPT Link]
+https://docs.google.com/presentation/d/10om2n9f8QKvAIf5RnKUS9QVlqj_ZA7YZ/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true
 ```
 
 ---
@@ -95,7 +95,7 @@ https://drive.google.com/file/d/1Jqf0Q9gOY-sTqoTccZunbjPwXbWy6d5g/view?usp=shari
 
 **This repository represents the final and official version of our project.**
 
-This is our **second submission under the same team name**. We kindly request the judges to consider **this repository as our final and official submission** for evaluation, as the previous project is buggy and does not work any more. This repository contains the latest updates, improvements, bug fixes, and completed functionality of our final and official submission.
+This is our **second submission under the same team name**. We kindly request the judges to consider **this repository as our final and official submission** for evaluation, as the previous project is buggy and does not work anymore. This repository contains the latest updates, improvements, bug fixes, and completed functionality of our final and official submission. We have updated our previous Google Form entry and uploaded this project in the IBM Dashboard as well.
 
 **Details of previous submission(please consider it as invalid submission):** 
 
