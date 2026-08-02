@@ -76,7 +76,7 @@ https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?us
 **Project Presentation (PPT)**
 
 ```
-https://docs.google.com/presentation/d/10om2n9f8QKvAIf5RnKUS9QVlqj_ZA7YZ/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true
+https://drive.google.com/file/d/1fKx2MXSDWHnVWNniFxCaIN89KbJuLqwe/view?usp=sharing
 ```
 
 ---
