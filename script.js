@@ -10,7 +10,7 @@ const toastMessage = document.getElementById("toastMessage");
 const toastClose = document.getElementById("toastClose");
 
 const WEBHOOK_URL =
-  "https://random12345.app.n8n.cloud/webhook-test/appointment-form";
+  "https://random12345.app.n8n.cloud/webhook/appointment-form";
 
 let toastTimer = null;
 
