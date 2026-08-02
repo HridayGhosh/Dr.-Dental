@@ -31,6 +31,66 @@ For any queries regarding the project, please contact the team leader:
 
 ---
 
+# 🌐 Live Deployment
+
+**Live Demo**
+
+```
+[Deployed Project URL]
+```
+
+---
+
+# 📁 Project Document Links
+
+**Google Drive Folder**
+
+```
+https://drive.google.com/drive/folders/1FtkhnVEQPRh5AK9jYWHlJ_n34k9SAhvg?usp=sharing
+```
+
+---
+
+# 📄 Google Sheets
+
+**Appointment Records & Workflow Data**
+
+```
+https://docs.google.com/spreadsheets/d/1KitR4uU39MlBZBv-YQYLfB7ay7upHye7J-4Bn217UgQ/edit?usp=sharing
+```
+
+---
+
+# 📈 Lean Canvas
+
+**Lean Canvas Link**
+
+```
+https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true
+```
+
+---
+
+# 📊 Presentation
+
+**Project Presentation (PPT)**
+
+```
+[PPT Link]
+```
+
+---
+
+# 🔄 n8n Workflow
+
+**n8n Workflow**
+
+```
+https://drive.google.com/file/d/1Jqf0Q9gOY-sTqoTccZunbjPwXbWy6d5g/view?usp=sharing
+```
+
+---
+
 # 📢 Submission Note
 
 **This repository represents the final and official version of our project.**
@@ -182,56 +242,6 @@ Dr-Dental/
 6. n8n processes the appointment request.
 7. User receives an on-screen confirmation message.
 8. The workflow can optionally trigger email notifications.
-
----
-
-# 📁 Project Files (Google Drive)
-
-**Google Drive Folder**
-
-```
-https://drive.google.com/drive/folders/1FtkhnVEQPRh5AK9jYWHlJ_n34k9SAhvg?usp=sharing
-```
-
----
-
-# 📈 Lean Canvas
-
-**Lean Canvas Link**
-
-```
-https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true
-```
-
----
-
-# 📊 Presentation
-
-**Project Presentation (PPT)**
-
-```
-[PPT Link]
-```
-
----
-
-# 🔄 n8n Workflow
-
-**n8n Workflow**
-
-```
-[n8n Workflow Link]
-```
-
----
-
-# 🌐 Live Deployment
-
-**Live Demo**
-
-```
-[Deployed Project URL]
-```
 
 ---
 
