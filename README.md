@@ -11,6 +11,7 @@
 This is our **second submission under the same team name**. We kindly request the judges to consider **this repository as our final and official submission** for evaluation, as the previous project is buggy and does not work any more. This repository contains the latest updates, improvements, bug fixes, and completed functionality of our final and official submission.
 
 **Details of previous submission(please consider it as invalid submission):** 
+
 [Google Drive Link](https://drive.google.com/drive/folders/1mBPY92itDSHu8XpaN5XCFmpT1BcXfvBb?usp=sharing)
 
 [Presentation Link](https://docs.google.com/presentation/d/13i6za0S9-wInQOc4hjdC7n1OEGDfWF-V/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
@@ -18,6 +19,7 @@ This is our **second submission under the same team name**. We kindly request th
 [Lean Canvas Link](https://docs.google.com/presentation/d/12uHIQn_afBbng913XPiMfMNuTxEx50Et/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=trues)
 
 [Project GitHub Link](https://docs.google.com/presentation/d/13i6za0S9-wInQOc4hjdC7n1OEGDfWF-V/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
+
 
 Thank you for your time and consideration.
 
