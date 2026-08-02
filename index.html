@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dr. Dental | Smile Bright</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <div class="background-glow glow-1"></div>
+    <div class="background-glow glow-2"></div>
+
+    <header class="site-header">
+        <div class="container nav-wrapper">
+            <div class="brand">
+                <span class="brand-mark">D</span>
+                <span>Dr. Dental</span>
+            </div>
+            <nav class="nav-links">
+                <a href="#services">Services</a>
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+            </nav>
+            <button class="btn btn-primary open-modal-btn">Book Appointment</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container hero-grid">
+                <div class="hero-copy">
+                    <p class="eyebrow">Modern Dentistry. Calm Experience.</p>
+                    <h1>Your healthiest smile starts with Dr. Dental.</h1>
+                    <p class="hero-text">
+                        From routine checkups to advanced restorative care, Dr. Dental delivers gentle,
+                        personalized treatment in a warm and modern clinic setting.
+                    </p>
+                    <div class="hero-actions">
+                        <button class="btn btn-primary open-modal-btn">Book an Appointment</button>
+                        <a href="#services" class="btn btn-secondary">Explore Services</a>
+                    </div>
+                </div>
+
+                <div class="hero-card">
+                    <div class="card-top">
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </div>
+                    <div class="hero-card-content">
+                        <h3>Patient Care Promise</h3>
+                        <ul>
+                            <li>Comfort-focused treatment</li>
+                            <li>Same-day consultation support</li>
+                            <li>Transparent oral health guidance</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="services" id="services">
+            <div class="container">
+                <div class="section-heading">
+                    <p class="eyebrow">Our Specialties</p>
+                    <h2>Compassionate dental care for every stage of life</h2>
+                </div>
+                <div class="service-grid">
+                    <article class="service-card">
+                        <h3>Routine Checkups</h3>
+                        <p>Preventive cleanings and oral wellness exams to keep your smile strong.</p>
+                    </article>
+                    <article class="service-card">
+                        <h3>Cosmetic Dentistry</h3>
+                        <p>Whitening, veneers, and smile enhancement designed to look naturally beautiful.</p>
+                    </article>
+                    <article class="service-card">
+                        <h3>Restorative Care</h3>
+                        <p>Dental fillings, crowns, and restorative solutions that feel reliable and lasting.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="about" id="about">
+            <div class="container about-grid">
+                <div>
+                    <p class="eyebrow">Why Patients Choose Us</p>
+                    <h2>Gentle dentistry backed by advanced technology</h2>
+                </div>
+                <div>
+                    <p>
+                        At Dr. Dental, every appointment is built around comfort, clarity, and long-term oral health.
+                        We combine modern techniques with a reassuring chairside experience for complete peace of mind.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer" id="contact">
+        <div class="container footer-grid">
+            <div>
+                <div class="brand footer-brand">
+                    <span class="brand-mark">D</span>
+                    <span>Dr. Dental</span>
+                </div>
+                <p>Helping every patient feel confident, comfortable, and cared for.</p>
+            </div>
+            <div>
+                <p>Email: rguy0359@gmail.com</p>
+            </div>
+        </div>
+    </footer>
+
+    <div class="modal-overlay" id="appointmentModal" aria-hidden="true">
+        <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+            <button class="close-modal" id="closeModal" aria-label="Close appointment form">×</button>
+            <h2 id="modalTitle">Book an Appointment</h2>
+            <p class="modal-subtitle">Share your details and choose a suitable time slot.</p>
+
+            <form id="appointmentForm" novalidate>
+                <div class="form-grid">
+                    <label>
+                        <span>Name <strong>*</strong></span>
+                        <input type="text" name="name" placeholder="Your full name" required />
+                    </label>
+
+                    <label>
+                        <span>Email <strong>*</strong></span>
+                        <input type="email" name="email" placeholder="Won't work if invalid email id" required />
+                    </label>
+
+                    <label>
+                        <span>Contact Info</span>
+                        <input type="text" name="contact" placeholder="Optional phone or WhatsApp number" />
+                    </label>
+
+                    <label>
+                        <span>Appointment Date <strong>*</strong></span>
+                        <input type="date" name="appointmentDate" id="appointmentDate" required />
+                    </label>
+
+                    <label>
+                        <span>Time Slot <strong>*</strong></span>
+                        <select name="timeSlot" required>
+                            <option value="">Select a time slot</option>
+                            <option value="09:00 to 10:00">09:00 to 10:00</option>
+                            <option value="10:00 to 11:00">10:00 to 11:00</option>
+                            <option value="11:00 to 12:00">11:00 to 12:00</option>
+                            <option value="14:00 to 15:00">14:00 to 15:00</option>
+                            <option value="15:00 to 16:00">15:00 to 16:00</option>
+                            <option value="16:00 to 17:00">16:00 to 17:00</option>
+                            <option value="17:00 to 18:00">17:00 to 18:00</option>
+                        </select>
+                    </label>
+
+                    <label class="full-width">
+                        <span>Problem Description <strong>*</strong></span>
+                        <textarea name="problem" rows="5" required
+                            placeholder="Tell us about your dental issue"></textarea>
+                    </label>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" class="btn btn-secondary" id="cancelModal">
+                        Cancel
+                    </button>
+
+                    <button type="submit" class="btn btn-primary">
+                        Submit Appointment
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast">
+        <div class="toast-content">
+
+            <div class="toast-text">
+                <h4 id="toastTitle"></h4>
+                <p id="toastMessage"></p>
+            </div>
+
+            <button id="toastClose" class="toast-close" aria-label="Close notification">
+                &times;
+            </button>
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
