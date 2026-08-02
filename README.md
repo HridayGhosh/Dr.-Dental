@@ -8,19 +8,13 @@
 
 **This repository represents the final and official version of our project.**
 
-This is our **second submission under the same team name**. We kindly request the judges to consider **this repository as our final and official submission** for evaluation, as it contains the latest updates, improvements, bug fixes, and completed functionality.
+This is our **second submission under the same team name**. We kindly request the judges to consider **this repository as our final and official submission** for evaluation, as the previous project is buggy and does not work any more. This repository contains the latest updates, improvements, bug fixes, and completed functionality of our final and official submission.
 
-**Details of previous submission:** 
+**Details of previous submission(please consider it as invalid submission):** 
 [Google Drive Link](https://drive.google.com/drive/folders/1mBPY92itDSHu8XpaN5XCFmpT1BcXfvBb?usp=sharing)
-<img width="1814" height="87" alt="image" src="https://github.com/user-attachments/assets/5a2112ea-ab98-4576-a481-457be99eb98c" />
-
 [Presentation Link](https://docs.google.com/presentation/d/13i6za0S9-wInQOc4hjdC7n1OEGDfWF-V/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
-
-[Lean Canvas Link](https://docs.google.com/presentation/d/12uHIQn_afBbng913XPiMfMNuTxEx50Et/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=trues
-)<img width="2890" height="87" alt="image" src="https://github.com/user-attachments/assets/b2e8cc06-f59e-492f-a21a-ea72d78f9248" />
-
+[Lean Canvas Link](https://docs.google.com/presentation/d/12uHIQn_afBbng913XPiMfMNuTxEx50Et/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=trues)
 [Project GitHub Link](https://docs.google.com/presentation/d/13i6za0S9-wInQOc4hjdC7n1OEGDfWF-V/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
-
 
 Thank you for your time and consideration.
 
