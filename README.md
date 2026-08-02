@@ -12,8 +12,11 @@ This is our **second submission under the same team name**. We kindly request th
 
 **Details of previous submission(please consider it as invalid submission):** 
 [Google Drive Link](https://drive.google.com/drive/folders/1mBPY92itDSHu8XpaN5XCFmpT1BcXfvBb?usp=sharing)
+
 [Presentation Link](https://docs.google.com/presentation/d/13i6za0S9-wInQOc4hjdC7n1OEGDfWF-V/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
+
 [Lean Canvas Link](https://docs.google.com/presentation/d/12uHIQn_afBbng913XPiMfMNuTxEx50Et/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=trues)
+
 [Project GitHub Link](https://docs.google.com/presentation/d/13i6za0S9-wInQOc4hjdC7n1OEGDfWF-V/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
 
 Thank you for your time and consideration.
@@ -59,6 +62,7 @@ Dr. Dental provides patients with a modern appointment booking experience throug
 - Scalable backend integration via webhooks
 - Email confirmations
 
+---
 
 # ✨ Features
 
