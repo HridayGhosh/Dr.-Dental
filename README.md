@@ -158,14 +158,22 @@ Dr-Dental/
 
 ---
 
+# 📁 Project Files (Google Drive)
+
+**Google Drive Folder**
+
+```
+[Google Drive Folder Link]
+```
+
+---
+
 # 📈 Lean Canvas
 
 **Lean Canvas Link**
 
-> _Add your Lean Canvas link here_
-
 ```
-[Lean Canvas Link]
+[[Lean Canvas Link]](https://docs.google.com/presentation/d/1L5t3wvRi-yTlKbWQqLQ5N25WgJut8yR6/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=true)
 ```
 
 ---
@@ -174,17 +182,25 @@ Dr-Dental/
 
 **Project Presentation (PPT)**
 
-> _Add your presentation link here_
-
 ```
 [PPT Link]
 ```
 
+---
+
+# 🔄 n8n Workflow
+
+**n8n Workflow**
+
+```
+[n8n Workflow Link]
+```
+
+---
+
 # 🌐 Live Deployment
 
 **Live Demo**
-
-> _Add your presentation link here_
 
 ```
 [Deployed Project URL]
