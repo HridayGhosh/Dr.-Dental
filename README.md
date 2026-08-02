@@ -12,11 +12,8 @@ This is our **second submission under the same team name**. We kindly request th
 
 **Details of previous submission:** 
 **Lean Canvas Link**
-```
 [[Lean Canvas Link]](https://docs.google.com/presentation/d/12uHIQn_afBbng913XPiMfMNuTxEx50Et/edit?usp=sharing&ouid=106615520635723288014&rtpof=true&sd=trues
 )<img width="2890" height="87" alt="image" src="https://github.com/user-attachments/assets/b2e8cc06-f59e-492f-a21a-ea72d78f9248" />
-
-```
 
 **Presentation Link**
 ```
